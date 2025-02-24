@@ -11,7 +11,9 @@ Un outil d'analyse avancé alimenté par ML pour évaluer l'impact social, envir
 
 [English Version](#english-version) | [Documentation](#documentation) | [Installation](#installation) | [Vision 2025](#vision-2025)
 
-![Project Preview](https://via.placeholder.com/800x400?text=Bellevilles+Impact+Analyzer)
+![Image](https://github.com/user-attachments/assets/b161e6ca-f5b2-4f7e-a1df-80a5f66c44ad)
+![Image](https://github.com/user-attachments/assets/ee2d6551-ca2d-440b-9bf0-8afa72bc21b4)
+![Image](https://github.com/user-attachments/assets/ad1ea572-93fa-48cb-8846-32bd4402df89)
 
 ## 📊 Caractéristiques Principales
 

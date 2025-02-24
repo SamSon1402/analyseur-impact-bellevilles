@@ -173,4 +173,4 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ---
 
-**Contact:** [votre-email@domain.com](sameerm1421999@gmail.com)
+**Contact:** : sameerm1421999@gmail.com

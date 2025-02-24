@@ -174,3 +174,4 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 ---
 
 **Contact:** : sameerm1421999@gmail.com
+**LinkedIn:** : https://www.linkedin.com/in/sameer-m-b73376167/
